@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661561948245",
+    "project_id": "basurin-2886a",
+    "storage_bucket": "basurin-2886a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661561948245:android:6800f81a94e25aca62bcdc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6BbdZhtadIPo-thz_lSjzR3ns53Cn2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
